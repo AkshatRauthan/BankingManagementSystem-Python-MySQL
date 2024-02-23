@@ -25,5 +25,6 @@ This project is a Python-based Banking Management System that I developed as par
 # License
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
 
+
 Feel free to create pull requests, contribute, or provide me suggetions or imprevements in this project. 🚀
 
