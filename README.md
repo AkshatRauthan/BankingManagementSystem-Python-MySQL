@@ -19,8 +19,8 @@ This project is a Python-based Banking Management System that I developed as par
 * Set up your MySQL database and configure the connection details in Configure Application.py.
 
 # Usage
-Run Banking Management System.py to start the application.
-Follow the prompts to create an account, perform transactions, and manage your banking activities.
+* Run Banking Management System.py to start the application.
+* Follow the prompts to create an account, perform transactions, and manage your banking activities.
 
 # License
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
