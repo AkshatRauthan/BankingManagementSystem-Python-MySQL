@@ -15,7 +15,7 @@ This project is a Python-based Banking Management System that I developed as par
 # Installation 
 * Clone this repository to your local machine: git clone https://github.com/AkshatRauthan/BankingManagementSystem-Python-MySQL.git
 * Install the required python libraries : mysql-connector-python, pandas, matplotlib.
-* Ensure that y0u have MySQL4 or above.
+* Ensure that you have MySQL4 or above.
 * Set up your MySQL database and configure the connection details in Configure Application.py.
 
 # Usage
